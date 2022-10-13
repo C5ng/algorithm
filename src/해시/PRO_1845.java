@@ -25,6 +25,7 @@ public class PRO_1845 {
 
     public static void main(String[] args) {
         int[] nums = {3,3,3,2,2,2};
+
         System.out.print(solution(nums));
     }
 }

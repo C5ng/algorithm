@@ -48,6 +48,6 @@ public class PRO_42577 {
     public static void main(String[] args) {
         String[] phone_book = {"12","123","1235","567","88"};
 
-        System.out.println(solution(phone_book));
+        System.out.print(solution(phone_book));
     }
 }

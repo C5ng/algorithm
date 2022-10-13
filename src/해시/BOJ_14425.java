@@ -29,5 +29,6 @@ public class BOJ_14425 {
         }
 
         System.out.print(count);
+
     }
 }

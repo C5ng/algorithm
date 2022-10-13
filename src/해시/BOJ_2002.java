@@ -23,5 +23,6 @@ public class BOJ_2002 {
         }
 
         System.out.print(count);
+        
     }
 }

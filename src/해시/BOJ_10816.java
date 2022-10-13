@@ -33,5 +33,6 @@ public class BOJ_10816 {
         }
 
         System.out.print(sb);
+
     }
 }

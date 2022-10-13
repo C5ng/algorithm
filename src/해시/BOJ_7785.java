@@ -35,5 +35,6 @@ public class BOJ_7785 {
         for (int i = 0; i < arr.size(); i++) {
             System.out.println(arr.get(i));
         }
+
     }
 }
