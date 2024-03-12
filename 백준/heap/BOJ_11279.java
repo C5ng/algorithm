@@ -1,6 +1,6 @@
 package heap;
 
-/* https://www.acmicpc.net/problem/1927 */
+/* https://www.acmicpc.net/problem/11279 */
 
 import java.io.BufferedReader;
 import java.io.IOException;
